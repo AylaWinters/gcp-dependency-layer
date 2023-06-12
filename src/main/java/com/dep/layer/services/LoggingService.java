@@ -1,6 +1,5 @@
 package com.dep.layer.services;
 
-import java.io.UnsupportedEncodingException;
 import java.nio.charset.StandardCharsets;
 import java.time.LocalDate;
 
